@@ -13,7 +13,7 @@ import React from 'react';
     }
   mudacomputador = () => {
     this.setState({cor: 'Pink'});
-    this.setState({meoria: '32gb'});
+    this.setState({memoria: '32gb'});
     this.setState({processador: 'Intel Core i3-7200u'});
     this.setState({HD: '1 tb'});
   }
